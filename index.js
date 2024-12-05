@@ -247,6 +247,17 @@ console.log("Hello from Conditions");
 //     if role is '' return 'Please provide role'
 //     else return 'Hi'
 
+// const role = prompt("Дүрээ оруулна уу:");
+// if (role == "Employe") {
+//   console.log("Hello");
+// } else if (role == "Director") {
+//   console.log("Greetings");
+// } else if (role == null) {
+//   console.log("Please provide role");
+// } else {
+//   console.log("Hi");
+// }
+
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // Exercise 9 j
 
