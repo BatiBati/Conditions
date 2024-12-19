@@ -233,9 +233,9 @@ console.log("Hello from Conditions");
 //     if even return "the number is even"
 // const toonUtga = Number(prompt("Toon utga oruulna uu:"));
 //  if (toonUtga % 2 === 0) {
-//     console.log("THis is even");
+//     console.log("This is even");
 //  }  else if ( toonUtga % 2 !== 0) {
-//     console.log("THis is odd");
+//     console.log("This is odd");
 //  }
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // Exercise 8 j
@@ -246,6 +246,14 @@ console.log("Hello from Conditions");
 //     if role is 'Director' return 'Greetings'
 //     if role is '' return 'Please provide role'
 //     else return 'Hi'
+const roleA = Employe;
+const roleB = Director;
+if (roleA =){
+    
+    
+
+}
+
 
 // const role = prompt("Дүрээ оруулна уу:");
 // if (role == "Employe") {
